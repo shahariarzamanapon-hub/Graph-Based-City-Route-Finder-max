@@ -1,0 +1,113 @@
+50
+
+Dhaka
+Chittagong
+Sylhet
+Rajshahi
+Khulna
+Barisal
+Rangpur
+Mymensingh
+Comilla
+CoxsBazar
+Jessore
+Bogra
+Dinajpur
+Pabna
+Noakhali
+Feni
+Tangail
+Gazipur
+Narsingdi
+Brahmanbaria
+Narayanganj
+Munshiganj
+Faridpur
+Madaripur
+Gopalganj
+Narail
+Satkhira
+Bagerhat
+Bhola
+Patuakhali
+Jhalokati
+Pirojpur
+Habiganj
+Moulvibazar
+Sunamganj
+Kishoreganj
+Netrokona
+Sherpur
+Jamalpur
+Gaibandha
+Kurigram
+Lalmonirhat
+Thakurgaon
+Panchagarh
+Naogaon
+Joypurhat
+Chapainawabganj
+Meherpur
+Chuadanga
+CoxsBazar
+
+Dhaka Gazipur 25
+Dhaka Narsingdi 50
+Dhaka Narayanganj 20
+Dhaka Munshiganj 35
+Dhaka Tangail 98
+Dhaka Mymensingh 120
+Dhaka Comilla 97
+Dhaka Faridpur 145
+
+Gazipur Tangail 70
+Tangail Bogra 150
+Bogra Gaibandha 80
+Gaibandha Rangpur 95
+Rangpur Kurigram 70
+Kurigram Lalmonirhat 35
+
+Rangpur Dinajpur 110
+Dinajpur Thakurgaon 65
+Thakurgaon Panchagarh 50
+
+Bogra Joypurhat 60
+Joypurhat Naogaon 85
+Naogaon Rajshahi 75
+Rajshahi Chapainawabganj 45
+Rajshahi Pabna 110
+
+Pabna Faridpur 120
+Faridpur Madaripur 55
+Madaripur Gopalganj 60
+Gopalganj Narail 75
+Narail Jessore 85
+Jessore Khulna 65
+Khulna Bagerhat 40
+Khulna Satkhira 75
+
+
+Bagerhat Pirojpur 27
+Barisal Jhalokati 35
+Jhalokati Pirojpur 40
+Pirojpur Patuakhali 80
+Patuakhali Bhola 95
+
+Comilla Brahmanbaria 60
+Brahmanbaria Sylhet 140
+Sylhet Moulvibazar 60
+Moulvibazar Habiganj 45
+Sylhet Sunamganj 55
+
+Mymensingh Kishoreganj 70
+Kishoreganj Brahmanbaria 85
+Mymensingh Netrokona 50
+Netrokona Sherpur 65
+Sherpur Jamalpur 45
+Jamalpur Bogra 130
+
+Comilla Feni 55
+Feni Chittagong 125
+Chittagong CoxsBazar 150
+Noakhali Feni 40
+Comilla Noakhali 75

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1770827619 source:d:\onedrive\desktop\project\cyber knights\main.c
+	<stdio.h>
+	"Apon.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
+1771388373 d:\onedrive\desktop\project\cyber knights\apon.h
+	<stdio.h>
+	<limits.h>
+	<string.h>
+
